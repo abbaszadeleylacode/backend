@@ -1,0 +1,3 @@
+'backend' adinda database yarat
+1.admin-id,name,surname,password,email (Leyla,Abbasova,passw:123,email:abbaszadeleyla94@gmail.com)
+2.news-id,header,text,photo
